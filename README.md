@@ -9,7 +9,8 @@ I’m an Electronics and Communication Engineering (ECE) undergraduate who enjoy
 - Learning and applying core ECE subjects
 - Sensor-based and IoT projects using Arduino and microcontrollers  
 - Exploring embedded systems through hands-on experimentation  
-- Academic and mini-projects related to signal processing and electronics  
+- Academic and mini-projects related to signal processing and electronics
+- Focus on system integration, debugging, and embedded IoT workflows  
 - Improving my coding skills across different programming languages  
 
 ---
@@ -50,5 +51,5 @@ When I’m not working on electronics, I enjoy creative writing and poetry, read
 ---
 
 ⭐ Thanks for stopping by! Feel free to explore my repositories or connect with me.
-
+P.S. most of the repositories contain files built by integrating documented examples, libraries, and iterative testing.
 -->
