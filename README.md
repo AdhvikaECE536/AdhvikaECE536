@@ -51,5 +51,6 @@ When I’m not working on electronics, I enjoy creative writing and poetry, read
 ---
 
 ⭐ Thanks for stopping by! Feel free to explore my repositories or connect with me.
+  
 P.S. most of the repositories contain files built by integrating documented examples, libraries, and iterative testing.
 -->
