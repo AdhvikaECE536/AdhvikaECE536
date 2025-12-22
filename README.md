@@ -44,8 +44,8 @@ When I’m not working on electronics, I enjoy creative writing and poetry, read
 ---
 
 ### 📫 How to reach me
-- 📧 Email: adhvikag@gmail.com  
-- 💼 LinkedIn: (add your LinkedIn profile link here)
+- 📧 Email: adhvika.ece@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/adhvika-gedela-a94631332
 
 ---
 
