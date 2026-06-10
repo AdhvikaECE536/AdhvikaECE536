@@ -40,7 +40,7 @@ I’m an Electronics and Communication Engineering (ECE) undergraduate who enjoy
 ---
 
 ### ✍️ Beyond tech
-When I’m not working on electronics, I enjoy creative writing and poetry, reading, running, and DIY electronics experiments. I believe creativity and engineering go hand in hand.
+When I’m not working on electronics, I enjoy creative writing and poetry, reading, running, and just vibing with life. I believe creativity and engineering go hand in hand.
 
 ---
 
