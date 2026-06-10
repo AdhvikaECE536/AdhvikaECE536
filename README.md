@@ -16,9 +16,9 @@ I’m an Electronics and Communication Engineering (ECE) undergraduate who enjoy
 ---
 
 ### 🌱 What I’m currently learning
-- Embedded systems and sensor interfacing  
-- PCB design fundamentals  
-- CAD and product modeling using Fusion 360  
+- IoT and sensor interfacing  
+- PCB design fundamentals
+- Bare-Metal programming
 - Strengthening problem-solving and system-level thinking  
 
 ---
