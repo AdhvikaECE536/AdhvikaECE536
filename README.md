@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Adhvika
+## Hi there 👋 I'm Adhvika!
 
 ### 👩‍💻 Who am I?
 I’m an Electronics and Communication Engineering (ECE) undergraduate who enjoys building things, experimenting beyond the curriculum, and learning by doing. I’m curious about how hardware and software come together in real-world systems, and I love exploring ideas through side projects.
